@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**Matissbvt/Matissbvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Matiss**](https://guns.lol/matissbvt), a back-end developper based in Lyon.
 
-Here are some ideas to get you started:
+I code and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is C, bash, javascript, and java. My favorite tools are apple notes, and things on my iPhone.
+
+#### Fun Facts:
+
+* I have the better dad in this world
+* I don’t like kombucha
+* Suits is my favorite series
+* **Hobbies:** code, cars and sportscars
